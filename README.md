@@ -1,6 +1,6 @@
 ## Welcome to my GitHub-profile! 👋
 
-I'm **Nathalie Fredriksson**, a 24-year old web development student based in Gothenburg, Sweden. 
+I'm **Nathalie Fredriksson**, a 25-year old web development student based in Gothenburg, Sweden. 
 
 ### About me:
 - 🌍 Living in beautiful **Gothenburg** since 4 years ago, but was born and raised on the countryside in **Dalsland**.
